@@ -115,6 +115,8 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+
+      <p className="text-red-500 text-xl font-bold">This is tailwind css</p>
     </>
   )
 }
